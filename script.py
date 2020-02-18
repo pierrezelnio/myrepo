@@ -14,3 +14,8 @@ if reponse2 == "y":
     print("Moi aussi j'aime le chocolat")
 elif reponse2 == "n":
     print("T'as raison c'est pas bon ...")
+
+if reponse3 == "y":
+    print("Ohh la chance !!!")
+elif reponse3 == "n":
+    print("Dommage c'est un beau pays !")
