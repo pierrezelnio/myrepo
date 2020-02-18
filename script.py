@@ -19,3 +19,5 @@ if reponse3 == "y":
     print("Ohh la chance !!!")
 elif reponse3 == "n":
     print("Dommage c'est un beau pays !")
+print("J'adore la Normandie")
+
